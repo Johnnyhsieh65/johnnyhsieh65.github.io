@@ -4,5 +4,4 @@
      and unlimited project sites. Let’s get started.</p>
   <a href="#" class="button blue">User or organization site</a>
   <a href="#" class="button grey">Project site</a>
-</body>
-</html>
+
