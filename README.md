@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="IMG_1392.JPG" width="500" alt="Johnny Hsieh Profile Picture"/>
+</p>
+
 # Johnny Hsieh
 
 ## 👋 About Me
